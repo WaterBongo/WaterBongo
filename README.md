@@ -1,6 +1,6 @@
 ![Header](./header.png)
-### Hi there 👋, My names Edward!
 
+<h1 align="center">Hi there 👋, My names Edward!</h1>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats" />
 
 
