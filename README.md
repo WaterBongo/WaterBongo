@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-
+<h1 align="center"> Hi there 👋, My names Edward! <\h1>
 
 
 <h1 align="center"> Languages I use </h1>
