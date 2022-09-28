@@ -4,6 +4,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats" />
 
 
+
+<h1 align="center"> Languages I use </h1>
+
 <!--
 **WaterBongo/WaterBongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
