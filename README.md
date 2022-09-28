@@ -4,7 +4,7 @@
 
 
 <h1 align="center"> A little bit about me... </h1>
-  <p> Test </p>
+  <p align="center"> Test </p>
 
 <!--
 **WaterBongo/WaterBongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
