@@ -1,10 +1,11 @@
 ![Header](./header.png)
 
 <h1 align="center"> Hi there 👋, My names Edward!
+<br>
+  
+  
+##First, A little about me...
 
-
-<h1 align="center"> A little bit about me... </h1>
-  <p align="center"> Test </p>
 
 <!--
 **WaterBongo/WaterBongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
