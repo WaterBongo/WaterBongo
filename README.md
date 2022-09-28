@@ -5,6 +5,8 @@
   
   
 <h2 align="center"> First, A little About me... </h2>
+  - I've Been coding for 8 years!
+
 
 
 <!--
