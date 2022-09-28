@@ -1,3 +1,4 @@
+![Header](./header.png)
 ### Hi there 👋, My names Edward!
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats" />
@@ -17,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Footer](./footer.png)
