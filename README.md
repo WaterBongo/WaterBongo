@@ -5,9 +5,9 @@
   
   
 <h2 align="left"> First, A little About me... </h2>
-  - I've been coding for 3 years!
+  <p>- I've been coding for 3 years!</p>
   <br>
-  - I am currently 14!
+  <p>- I am currently 14!</p>
   <br>
   - I mainly work on autamation and Pattern Recognition!
   <br>
