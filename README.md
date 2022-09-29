@@ -1,10 +1,9 @@
 ![Header](./header.png)
 
 <h1 align="center"> Hi there 👋, My names Edward! </h1>
-<br>
   - 🌱 I’m currently learning SwiftUi
   
-<h2 align="left"> First, A little About me... </h2>
+<h2 align="center"> First, A little About me... </h2>
   - I've been coding for 3 years!
   <br>
   - I am currently 14!
