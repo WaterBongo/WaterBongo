@@ -5,15 +5,17 @@
   
   
 <h2 align="left"> First, A little About me... </h2>
-  - I've Been coding for 3 years!
+  - I've been coding for 3 years!
   <br>
   - I am currently 14!
   <br>
   - I mainly work on autamation and Pattern Recognition!
   <br>
   - I'm like really bad at math 😭
-
-
+  
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats" />  
+  
 
 <!--
 **WaterBongo/WaterBongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
