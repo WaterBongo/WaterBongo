@@ -6,18 +6,17 @@
   
 <h2 align="left"> First, A little About me... </h2>
   <p>- I've been coding for 3 years!</p>
-  <br>
   <p>- I am currently 14!</p>
   <br>
-  - I mainly work on autamation and Pattern Recognition!
+  - I mainly work on automation and Pattern Recognition!
   <br>
   - I'm like really bad at math 😭
   
   <br>
   <br>
   <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats" />  
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=astriogamer&theme=nord&margin-w=15&margin-h=1&column=6" alt="WaterBong's Github Stats" />  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats"/>  
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=astriogamer&theme=nord&margin-w=15&margin-h=1&column=6" alt="WaterBong's Github Stats" />  
 <!--
 **WaterBongo/WaterBongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
