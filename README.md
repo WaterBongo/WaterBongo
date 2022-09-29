@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there 👋, My names Edward!
 <br>
-  
+- 🌱 I’m currently learning SwiftUi  
   
 <h2 align="left"> First, A little About me... </h2>
   - I've been coding for 3 years!
