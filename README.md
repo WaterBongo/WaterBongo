@@ -15,7 +15,7 @@
   <br>
   <br>
   <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats"/>  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats"/>  
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=astriogamer&theme=nord&margin-w=15&margin-h=1&column=6" alt="WaterBong's Github Stats" />  
 <!--
 **WaterBongo/WaterBongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
