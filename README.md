@@ -2,6 +2,7 @@
 
 <h1 align="center"> Hi there 👋, My names Edward! </h1>
   - 🌱 I’m currently learning SwiftUi
+  <br>
   - Macbook Pro 2020 16Gb Mem
 <h1 align="center"> I Currently Code In... </h1>
 <br>
