@@ -8,7 +8,7 @@
   <br>
   - I am currently 14!
   <br>
-  - I mainly work on automation and Pattern Recognition!
+  - I mainly work on automation and Pattern Recognition / Ai Recognition!
   <br>
   - I'm like really bad at math 😭
   
