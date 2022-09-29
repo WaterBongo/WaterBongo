@@ -13,7 +13,9 @@
   <br>
   - I'm like really bad at math 😭
   
-  
+  <br>
+  <br>
+  <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats" />  
   
 
