@@ -6,6 +6,9 @@
   
 <h2 align="left"> First, A little About me... </h2>
   <p>- I've been coding for 3 years!</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="margin-left: 45px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxTCodes&layout=compact&theme=bear" />
+</a>
   <p>- I am currently 14!</p>
   <br>
   - I mainly work on automation and Pattern Recognition!
