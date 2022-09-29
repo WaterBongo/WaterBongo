@@ -5,7 +5,10 @@
   
   
 <h2 align="left"> First, A little About me... </h2>
-  - I've Been coding for 8 years!
+  - I've Been coding for 3 years!
+  - I am currently 14!
+  - I mainly work on autamation and Pattern Recognition!
+  - I'm like really bad at math 😭
 
 
 
