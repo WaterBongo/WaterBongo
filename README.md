@@ -1,9 +1,12 @@
 ![Header](./header.png)
 
 <h1 align="center"> Hi there 👋, My name is Edward! </h1>
-  - 🌱 Waiting For Hackathon...
+* 🌱 Waiting For Hackathon...
+
 ### Devices
+
 * Laptop : Macbook Pro 2020, M1 Chipset 16Gb Memory, 256gb SSD storage 💻
+
 * Desktop :  I7-6700k, 3070 Trio MSI GPU, 750W PSU, 1TB SSD, 256GB SSD
 
 
