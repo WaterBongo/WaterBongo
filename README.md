@@ -25,11 +25,11 @@
 <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> Python 🚀
 
 
-## A little about me!
+## Recent Projects
 
-* I've been coding for 4 years!
+* [ChessBoard Recognition](https://github.com/WaterBongo/chess.com-Board-To-Fen/) Uses a convolutional neural network to recognize the positions of pieces and translate it into FEN format.
 
-* I mainly work on automation and Pattern Recognition / Ai Recognition! 🤖
+## Misc
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats"/>  
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=astriogamer&theme=nord&margin-w=15&margin-h=1&column=6" alt="WaterBong's Github Stats"/>
