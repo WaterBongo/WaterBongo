@@ -4,7 +4,7 @@
 
 ## Status
 
-* 🌱 Hackathon Soon™️
+* 🌱 2nd Place in hackathon!
 
 * 15 Years Old
 
@@ -29,6 +29,7 @@
 
 * [ChessBoard Recognition](https://github.com/WaterBongo/chess.com-Board-To-Fen/) Uses a convolutional neural network to recognize the positions of pieces and translate it into FEN format.
 
+* [DAVES Online security](https://github.com/Rumpkin/DAVES) Uses a NLP model to safely identify and remove explict/inappropriate content.
 ## Misc
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats"/>  
