@@ -4,7 +4,7 @@
 
 ## Status
 
-* 🌱 2nd Place in hackathon!
+* 🌱 2nd Place in Bay Area Hackthon
 
 * 15 Years Old
 
