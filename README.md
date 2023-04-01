@@ -14,6 +14,8 @@
 
 * Macbook : Macbook Pro 2020, M1 Chipset 16Gb Memory, 256gb SSD storage 💻
 
+* Thinkpad : Lenovo Thnkpad T440, 4GB ddr3 ram, 512GB SSD
+
 * Windows Surface : Windows Surface 2 💻
 
 * Server : Intel Xeon E-2236 6 cores, 32GB ram, Radeon Instinct Mi25, 1tb SSD 💾
