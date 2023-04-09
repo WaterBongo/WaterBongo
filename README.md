@@ -36,6 +36,8 @@
 * [ChessBoard Recognition](https://github.com/WaterBongo/chess.com-Board-To-Fen/) Uses a convolutional neural network to recognize the positions of pieces and translate it into FEN format.
 
 * [DAVES Online security](https://github.com/Rumpkin/DAVES) Uses a NLP model to safely identify and remove explict/inappropriate content.
+
+* [BetterBites Healthy Alternatives](https://github.com/WaterBongo/BetterBites) Uses ChatGPT & google place API to choose a healthy alternative to junk food
 ## Misc
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats"/>  
