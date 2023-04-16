@@ -6,6 +6,8 @@
 
 * 🌱 2nd Place in Bay Area Hackthon
 
+* 🌱 Stanford Proco 1st Place!
+
 * 15 Years Old
 
 * Coding for 4 years!
