@@ -20,7 +20,7 @@
 
 * Windows Surface : Windows Surface 2 💻
 
-* Server : Intel Xeon E-2236 6 cores, 32GB ram, Radeon Instinct Mi25, 1tb SSD 💾
+* Server : Intel Xeon E-2236 6 cores, 32GB ram, Radeon Instinct Mi25 / Tesla P40 & Tesla P100, 1tb SSD 💾
 
 * Desktop : Mac pro 2013, Intel Xeon E5 12 core, AMD D300 GPU, 32GB ram, 2tb SSD 🖥️
 
