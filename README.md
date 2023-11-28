@@ -43,6 +43,6 @@
 ## Misc
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats"/>  
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=astriogamer&theme=nord&margin-w=15&margin-h=1&column=6" alt="WaterBong's Github Stats"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=WaterBongo&theme=nord&margin-w=15&margin-h=1&column=6" alt="WaterBong's Github Stats"/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=WaterBongo&style=flat-square" alt="cutecatstats" /> </p>
 
