@@ -8,17 +8,13 @@
 
 * 🌱 Stanford Proco 1st Place! (Competition)
 
-* 15 Years Old
+* 🌱1st Place code for cause!
 
-* Coding for 4 years!
+* 15 Years old
 
 ### Devices
 
 * Macbook : Macbook Pro 2020, M1 Chipset 16Gb Memory, 256gb SSD storage 💻
-
-* Thinkpad : Lenovo Thnkpad T440, 4GB ddr3 ram, 512GB SSD
-
-* Windows Surface : Windows Surface 2 💻
 
 * Server : Intel Xeon E-2236 6 cores, 32GB ram, Radeon Instinct Mi25 / Tesla P40 & Tesla P100, 1tb SSD 💾
 
