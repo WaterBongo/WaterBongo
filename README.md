@@ -4,11 +4,11 @@
 
 ## Status
 
-* 🌱 2nd Place in Bay Area Hackthon
+* 🌱1st Place code for cause!
 
 * 🌱 Stanford Proco 1st Place! (Competition)
 
-* 🌱1st Place code for cause!
+* 🌱 2nd Place in Bay Area Hackthon
 
 * 15 Years old
 
