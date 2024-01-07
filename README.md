@@ -4,7 +4,7 @@
 
 ## Status
 
-* 🌱1st Place code for cause!
+* 🌱1st Place code for cause! (Hackathon)
 
 * 🌱 Stanford Proco 1st Place! (Competition)
 
