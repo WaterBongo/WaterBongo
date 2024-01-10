@@ -10,7 +10,7 @@
 
 * 🌱 2nd Place in Bay Area Hackthon
 
-* 15 Years old
+* 16 Years old
 
 ### Devices
 
