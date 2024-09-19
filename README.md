@@ -12,6 +12,8 @@
 
 * 🌱 2nd Place in Bay Area Hackthon
 
+* 🌱 USC PGCP paid intern
+
 * 16 Years old
 
 ### Devices
@@ -38,7 +40,8 @@
 * [BetterBites Healthy Alternatives](https://github.com/WaterBongo/BetterBites) Uses ChatGPT & google place API to choose a healthy alternative to junk food
 ## Misc
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterBongo&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats"/>  
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=WaterBongo&theme=nord&margin-w=15&margin-h=1&column=6" alt="WaterBong's Github Stats"/>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=WaterBongo&style=flat-square" alt="cutecatstats" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=waterbongo&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+</p>
 
+![Footer](./footer.png)
