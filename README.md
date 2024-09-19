@@ -18,15 +18,7 @@
 
 * 16 Years old
 
-### Devices
-
-* Macbook : Macbook Pro 2020, M1 Chipset 16Gb Memory, 256gb SSD storage 💻
-
-* Server : Intel Xeon E-2236 6 cores, 32GB ram, Radeon Instinct Mi25 / Tesla P40 & Tesla P100, 1tb SSD 💾
-
-* Desktop : Mac pro 2013, Intel Xeon E5 12 core, AMD D300 GPU, 32GB ram, 2tb SSD 🖥️
-
-## Recent Projects
+## Recent Projects ⚡︎
 
 * [ChessBoard Recognition](https://github.com/WaterBongo/chess.com-Board-To-Fen/) Uses a convolutional neural network to recognize the positions of pieces and translate it into FEN format.
 
