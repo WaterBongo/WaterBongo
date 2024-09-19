@@ -2,7 +2,9 @@
 
 <h1 align="center"> Hello There 👋, My name is Edward </h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,swift,nodejs,html,pytorch,tensorflow,discord,docker,electron,vscode"/>
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,ubuntu,"/>
+    <img src="https://skillicons.dev/icons?i=swift,nodejs,html"/>
+    <img src="https://skillicons.dev/icons?i=discord,electron,vscode”/>
 </p>
 
 
@@ -25,13 +27,6 @@
 * Server : Intel Xeon E-2236 6 cores, 32GB ram, Radeon Instinct Mi25 / Tesla P40 & Tesla P100, 1tb SSD 💾
 
 * Desktop : Mac pro 2013, Intel Xeon E5 12 core, AMD D300 GPU, 32GB ram, 2tb SSD 🖥️
-
-## Applications I use 👨‍💻!
-
-<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual Studio Code 💻
-
-<img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> Python 🚀
-
 
 ## Recent Projects
 
