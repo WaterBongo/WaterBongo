@@ -3,7 +3,9 @@
 <h1 align="center"> Hello There 👋, My name is Edward </h1>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,ubuntu,"/>
+    
     <img src="https://skillicons.dev/icons?i=swift,nodejs,html"/>
+    
     <img src="https://skillicons.dev/icons?i=discord,electron,vscode”/>
 </p>
 
