@@ -1,10 +1,12 @@
 ![Header](./header.png)
 
 <h1 align="center"> Hello There 👋, My name is Edward </h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,swift,nodejs,html,pytorch,tensorflow,discord,docker,electron,vscode"/>
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=WaterBongo&style=flat-square" alt="cutecatstats" /> </p>
-
-## Status
 
 * 🌱1st Place code for cause! (Hackathon)
 
